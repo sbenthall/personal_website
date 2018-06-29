@@ -1,0 +1,150 @@
+<html>
+<head>
+<title>Superintelligence and the Social Sciences Seminar</title></head>
+<style>
+
+body {
+    width: 900px;
+    margin: auto;
+}
+
+table td, table td * {
+    vertical-align: top;
+    padding: 5px;
+}
+
+table td.strong {
+    font-weight: bold;
+}
+</style>
+<body>
+
+<h1>Superintelligence and the Social Sciences: </h1>
+
+<h2>Abstract</h2>
+<p>In the coming decades, the possibility of superintelligence could radically revolutionize society. Superintelligence refers to biological or artificial or hybrid agent(s) capable of general purpose intelligence beyond that of the smartest non-enhanced humans. Even if superintelligence is not achieved, highly intelligent AI, which already exists today, has the potential to revolutionize social, political, economic, and biological structures. While this can potentially be a boon for humanity, like ending hunger and cancer, it is important to attempt to avoid potential pitfalls, as several scientists and engineers have pointed out (including Steve Wozniak, Ray Kurzweil, and Elon Musk). The preparation for the possibility of superintelligence will require cooperation between engineers and scientists, who have the technical knowledge, and social scientists and humanities scholars, who have the knowledge of the structures that can be affected. The premise of this prospecting seminar is that good research on preparing for this possibility cannot occur without knowledge and friendly collaboration from both sets of researchers, and research on the topic with only the perspective of one set of researchers is myopic and has potentially serious pitfalls (including in-fighting between AI researchers and concerned social scientists which could polarize rather than synthesize viewpoints). The hope is the seminar gives the opportunity to STEM researchers, social scientists, and humanities scholars to interact, identify research issues, and collaborate in ways that can also be beneficial to humanity. </p>
+
+<h2>Description</h2>
+
+<p>The plan for this prospecting seminar is to meet six times during the Fall 2015 semester with each meeting three hours (possibly two hours), with a ten minute break in between. During the first half of each meeting, other than the introductory meeting, we plan to discuss three chapters of Nick Bostrom's <cite>Superintelligence</cite> (2014), which as of right now, is probably the best overview of the issue. Covering three chapters per meeting, we will be able to finish the book by the last meeting. The last half of each meeting will focus on a presentation by a speaker doing research related to superintelligence. All of the following listed speakers have agreed to speak to the seminar, should we schedule them at a time that works for them. They have also provided a topic and blurb on what they expect to present on, though I have told the speakers they are open to change the topics of their talks, so long as the topics are related to superintelligence. All of the persons giving talks are affiliated with either UC Berkeley or the Machine Intelligence Research Institute (MIRI). MIRI is based in the city of Berkeley, and along with the University of Oxford's Future of Humanity Institute and the University of Cambridge's Centre for the Study of Existential Risk, is at the vanguard of research on this topic. Below is a suggested seminar schedule. Note the actual schedule of speakers may vary in order to accommodate their availability.</p>
+
+<h2>Contact and Discussion</h2>
+
+<p>There is a mailing list for announcements and discussion related to the seminar and its research agenda.</p>
+<p>The address of this mailing list is <a href="https://calmail.berkeley.edu/manage/list/listinfo/collective-superintelligence@lists.berkeley.edu">collective-superintelligence [at] lists [dot] berkeley [dot] edu.</a> </p>
+
+<p>For inquiries, please contact Sebastian Benthall, sb [at] ischool [dot] berkeley [dot] edu.</p>
+
+<h2>Events</h2>
+
+<table>
+  <tr class="padded">
+    <td class="strong">September 9th</td>
+    <td colspan="2">The goal of discussion during this meeting will be for seminar participants to introduce themselves, their expertise, and their interests in the seminar. Also, there will be discussion of what we collectively hope to get out of the seminar. <em>Discussant: Patrick LaVictoire</em></td>
+  </tr>
+  <tr>
+    <td class="strong">9 Durant Hall</td>
+    <td><em>"Cooperation via Source Code Exchange"</em></td>
+    <td>Patrick LaVictoire, MIRI: Research Fellow, UC Berkeley: Mathematics PhD Recipient  </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Summary: Agents with verifiable source code can make cooperation possible without many of the institutional frameworks that we use today, via verification of intentions. This leads to some self-referential phenomena in decision theory, with fascinating parallels to diplomacy, contract law, and other topics relevant to the social sciences. (Explicitly, I will talk about a Prisoner's Dilemma tournament between algorithms that get to read each other's source code, and some interesting ways to obtain mutual cooperation without risk of defection.)</td>
+  </tr>
+  <!-- split -->
+  <tr class="padded">
+    <td class="strong">September 23rd</td>
+    <td colspan="2">Seminar participants should be prepared to discuss chapters 1 through 3 of Superintelligence.</td>
+  </tr>
+  <tr>
+    <td class="strong">Matrix Office, Barrows Hall, 8th Floor</td>
+    <td><em>"How to predict the future of AI: Social science projects that have been, are being, or could be done to shed light on AI timelines"</em></td>
+    <td>Katja Grace, Carnegie Mellon: Philosophy PhD Student, MIRI: Research Assistant
+</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+  <!-- split -->
+  <tr>
+    <td><strong>October 7th</strong></td>
+    <td colspan="2">Seminar Participants should be prepared to discuss chapters 4 through 6 of Superintelligence. <em>Discussant: Sebastian Benthall</em></td>
+  </tr>
+  <tr>
+    <td class="strong">Matrix Office, Barrows Hall, 8th Floor</td>
+    <td><em>"How to predict the future of AI: Social science projects that have been, are being, or could be done to shed light on AI timelines"</em></td>
+    <td>Paul Christiano, UC Berkeley: Computer Science PhD Candidate, Oxford: Future of Humanity Institute Research Associate</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+  <!-- split -->
+  <tr>
+    <td><strong>October 21th</strong></td>
+    <td colspan="2">Seminar Participants should be prepared to discuss chapters 7 through 9 of Superintelligence.</td>
+  </tr>
+  <tr>
+    <td class="strong">Matrix Office, Barrows Hall, 8th Floor</td>
+    <td><em>"Value Alignment in Autonomous Systems: Methods for developing systems which will align their values with those of the humans in its environment"</em></td>
+    <td>Nick Hay, UC Berkeley: Computer Science PhD Candidate</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Summary: We will examine methods derived from decision theory for defining an agent which treats its utility function as an unknown that it can learn about by observing and interacting with the human.
+</td>
+  </tr>
+  <!-- split -->
+  <tr>
+    <td><strong>November 4th</strong></td>
+    <td colspan="2">Seminar Participants should be prepared to discuss chapters 10 through 12 of Superintelligence.</td>
+  </tr>
+  <tr>
+    <td class="strong">Matrix Office, Barrows Hall, 8th Floor</td>
+    <td><em>"Genome editing for inherited retinal diseases"</em></td>
+    <td>C&eacute;cile Fortuny (tentative), UC Berkeley: Vision Science PhD student </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><p>Summary: In-vivo genome editing has become practical with the discovery of occurring targeted nucleases, which can be used as powerful tools to mediate precise genome alteration. This talk will cover how this approach can be applied as a therapeutic tool for inherited retinal diseases.</p>
+
+<p>Suggested Reading: http://newscenter.berkeley.edu/2015/03/19/scientists-urge-caution-in-using-new-crispr-technology-to-treat-human-genetic-disease/</p>
+</td>
+  </tr>
+  <!-- split -->
+  <tr>
+    <td><strong>November 18th</strong></td>
+    <td colspan="2">Seminar Participants should be prepared to discuss chapters 13 through 15 of Superintelligence. <em>Discussant: Diego Caleiro</em>.</td>
+  </tr>
+  <tr>
+    <td class="strong">Matrix Office, Barrows Hall, 8th Floor</td>
+    <td><em>"Cognitive Ecology: A framework for understanding sociotechnical intelligence"</em></td>
+    <td>Sebastian Benthall, UC Berkeley: Information School PhD candidate</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><p>Summary: I will present several research principles and findings from the empirical study open source software developers across many projects and domains. Grounded in these empirical studies, I will discuss cognitive ecology as a theoretical lens for the study of intelligent sociotechnical systems. </p>
+</td>
+  </tr>
+</table>
+
+<h2>Alternative events.</h2>
+
+<p>If there is flexibility in the schedule, we will also find time for these speakers. If you are interested in speaking or being a discussant, please contact sb [at] ischool [dot] berkeley [dot] edu.</p>
+
+<table>
+  <tr>
+    <td><strong>Backup: Nov 18</strong></td>
+    <td><em>"Condorcet: The First Singularity Theorist"</em></td>
+    <td>Mahendra Prasad, UC Berkeley: Information School PhD candidate</td>
+  </tr>.
+  <tr>
+    <td></td>
+    <td colspan="2"><p>Summary: While several models of a technological singularity have been created in recent years, the first person to have put forth a singularity hypothesis seems to be 18th century French mathematician/philosopher/revolutionary, Nicholas de Condorcet. While there are many versions of the hypothesis, the basic idea is that rapidly growing knowledge and technology will radically change human economic, political, social, and biological structures. Occasionally, Condorcet has been mentioned as a proto-discoverer of the hypothesis based on his rough descriptions of it in his philosophical work. What goes unmentioned is that in his math research, he actually created a mathematical model for the singularity. Much of Condorcet’s philosophy can be understood as an attempt to figure out how to lives beneficial to humans in a world with a singularity. But sadly, much of this is unavailable in English because many of his works have not had complete translations. I hope to elucidate Condorcet’s mathematical model of the singularity to encourage translation and study of his important contributions tackling social and ethical issues related to the singularity hypothesis.  
+</p>
+</td>
+  </tr>
+</table>
+ </body>
+</html>
