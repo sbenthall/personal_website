@@ -1,0 +1,10 @@
+body {
+     width: 600px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+
+li {
+   padding-bottom: .5em
+}
