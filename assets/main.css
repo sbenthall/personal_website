@@ -8,3 +8,7 @@ body {
 li {
    padding-bottom: .5em
 }
+
+#headshot {
+   float: right;
+}

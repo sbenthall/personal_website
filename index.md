@@ -1,63 +1,26 @@
 ---
 layout: home
 ---
+<img id="headshot" src="sebastian-benthall.jpg" width="200">
 
-<img src="sebastian-benthall.jpg" width="200" align="right">
+# Sebastian Benthall, Ph. D.
 
-# Sebastian Benthall, PhD
+* Research Fellow, Information Law Institute, NYU School of Law
+* Research Engineer, Econ-Ark
 
-<p>Research Fellow
-<br/>Information Law Institute
-<br/>Guarini Global Law and Tech
-<br/>New York University</p>
-<p>PhD, <a href="http://www.ischool.berkeley.edu">Information Management and Systems</a>
-<br>University of California at Berkeley</p>
+My research applies computational methods to questions about the political economy of information. 
 
-*I research the security, privacy, and ethics of information systems.*
+Current research includes:
 
-*I see information systems, including AI systems, as institutions: they are constituted by both people and technology.*
+* Designing software for macroeconomic simulations with heterogeneous agents, with <a href="https://econ-ark.org/">Econ-ARK</a>.
 
-*My methods are rooted in computer science and statistics.
-I see formal mathematical rigor as the heart of scientific inquiry,
-and critical for the design of technical architecture.*
+* Agent-Based Modeling of the impact of privacy by design on COVID-19 contact tracing applications, with the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health.</a>
 
-*But my research questions are raised by broader concerns
-of public policy, business practice, and social action.*
+* Studying the role of law in the maintenance of open source infrastructure, with <a href="https://www.guariniglobal.org/">Guarini Global Law and Tech</a>.
 
-*In practice, my research is multidisciplinary, including elements
-of computer science, law, economics, and sociology. Whenever possible,
-I work with data and build software prototypes of my research models.*
-    
-<h2>Current Roles</h2>
-<h3>Research Engineer, Econ-Ark</h3>
-<p>I am a Research Engineer working on the
-   <a href="https://github.com/econ-ark">Econ-Ark</a> suite of
-   macroeconomic simulation tools. These open source tools for
-   structural modeling with heterogeneous agents are fiscally
-   sponsored by NumFOCUS.
-</p>
-<h3>Information Law Institute Fellow</h3>
-<p>I'm a Fellow at the NYU's Information Law Institute.
-   I work on problems related to fairness in AI
-   and other political consequences of data-driven decision-making.
-</p>
+* Building tools for computational analysis of organizational influence and diversity in Internet governance, with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
-<h3>Guarini Global Law and Tech</h3>
-<p>I am a Visiting Researcher at
-   <a href="https://www.guariniglobal.org/">Guarini Global Law and Tech</a>,
-   part of the NYU Law School. There, I contribute to GGLT's
-   research on the interaction between open source technology and the law. I also research cybersecurity and privacy from a socioeconomic perspective.
-</p>
-<p>In one ongoing project, I am looking at the relationship between cybesecurity and international trade.</p>
-
-<h2>Dissertation</h2>
-
-<p>Sebastian Benthall. <em>Context, Causality, and Information Flow: Implications for Privacy Engineering, Security, and Data Economics</em>. Ph.D. dissertation. Advisors: John Chuang and Deirdre Mulligan. University of California, Berkeley. 2018. (<a href="https://escholarship.org/uc/item/5sg7q32q">eScholarship</a>) (<a href="https://www.slideshare.net/SebastianBenthall/context-causality-and-information-flow-implications-for-privacy-engineering-security-and-data-economics">slideshare</a>)</p>
-
-<blockquote>
- <strong>Abstract:</strong>The creators of technical infrastructure are under social and legal pressure to comply with expectations that can be difficult to translate into computational and business logics. This dissertation bridges this gap through three projects that focus on privacy engineering, information security, and data economics, respectively. These projects culminate in a new formal method for evaluating the strategic and tactical value of data: data games. This method relies on a core theoretical contribution building on the work of Shannon, Dretske, Pearl, Koller, and Nissenbaum: a definition of situated information flow as causal flow in the context of other causal relations and strategic choices.
-</blockquote>
-
+A goal of my research is to develop innovative approaches to the regulation of technology.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 <p>*** - indicates a refereed publication.</p>
@@ -114,9 +77,9 @@ I work with data and build software prototypes of my research models.*
       <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
-<h2>Teaching</h2>
-<p>In Fall 2013 I co-instructed a course on <a href="http://courses.ischool.berkeley.edu/i290m-ocpp/site/information.html">Open Collaboration and Peer Production</a> with Thomas Maillart. It was aimed primarily at Masters students at the School of Information, fulfilling a Management requirement. My instruction was based mostly on my professional experience working in and managing open source software communities.</p>
-<p>In Fall 2015 I co-organized a seminar on <a href="superintelligence-seminar">Superintelligence and the Social Sciences</a> with Mahendra Prasad.</p>
+<h2>Dissertation</h2>
+
+<p>Sebastian Benthall. <em>Context, Causality, and Information Flow: Implications for Privacy Engineering, Security, and Data Economics</em>. Ph.D. dissertation. Advisors: John Chuang and Deirdre Mulligan. University of California, Berkeley. 2018. (<a href="https://escholarship.org/uc/item/5sg7q32q">eScholarship</a>) (<a href="https://www.slideshare.net/SebastianBenthall/context-causality-and-information-flow-implications-for-privacy-engineering-security-and-data-economics">slideshare</a>)</p>
 
 <h2>Background</h2>
 <p>2019 - Research Engineer, Econ-Ark</P>
@@ -131,7 +94,7 @@ I work with data and build software prototypes of my research models.*
 <h2>On the Web</h2>
 
 <p><a href="http://www.ischool.berkeley.edu/people/students/sebastianbenthall">bio</a> <a href="http://digifesto.com">blog</a> <a href="http://twitter.com/sbenthall">twitter</a> <a href="http://lnkd.in/dQXWUp3">linkedin</a> <a href="https://github.com/sbenthall">github</a> <a href="http://www.slideshare.net/SebastianBenthall">slideshare</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
-	
+
 <h2>Contact</h2>
 <p>e-mail: spb413 at nyu dot edu</p>
     
