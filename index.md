@@ -54,7 +54,7 @@ A goal of my research is to develop innovative approaches to the regulation of t
 
 <h3>Miscellaneous</h3>
 <ul>
-  <li>Benthall, S. and Goldenfein, J. (2020) Data Science and the Decline of Liberal Law and Ethics. Ethics of Data Science Conference - Sydney 2020 (forthcoming). (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3632577">SSRN</a>)</li>
+  <li>***Benthall, S. and Goldenfein, J. (2020) Data Science and the Decline of Liberal Law and Ethics. Ethics of Data Science Conference - Sydney 2020 (forthcoming). (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3632577">SSRN</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   
   <li>
