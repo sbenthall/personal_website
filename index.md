@@ -41,6 +41,7 @@ A goal of my research is to develop innovative approaches to the regulation of t
 
 <h3>Computational Social Science</h3>
 <ul>
+  <li>Benthall, Sebastian and Seth, Mridul. "Software Engineering as Research Method". SciPy 2020. (<a href="https://youtu.be/nxXr0LNdQUU">video</a>)</li>
   <li>***Benthall, Sebastian, and Bruce D. Haynes. "Racial categories in machine learning." Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019. (<a href="https://dl.acm.org/citation.cfm?id=3287575">link</a>) (<a href="https://youtu.be/wWs6RucxvPI?t=1173">video</a>)</li>
   <li>
     ***Benthall, S. (2015) Testing Generative Models of Online Collaboration with BigBang. SciPy 2015. Ed. Kathryn Huff and James Bergstra. (<a href="http://conference.scipy.org/proceedings/scipy2015/sebastian_benthall.html">link</a>)
