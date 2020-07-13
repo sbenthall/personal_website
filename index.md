@@ -22,6 +22,8 @@ Current research includes:
 
 A goal of my research is to develop innovative approaches to the regulation of technology.
 
+A secondary goal is to address the social and philosophical grounds of my own research methods.
+
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 <p>*** - indicates a refereed publication.</p>
 <h3>Security and Privacy</h3>
