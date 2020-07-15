@@ -51,7 +51,7 @@ A secondary goal is to address the social and philosophical grounds of my own re
   <li>Benthall, S. (2016) Philosophy of Computational Social Science. <em>Cosmos and History: The Journal of Natural and Social Philosophy</em>, Vol 12, No 2. (<a href="http://cosmosandhistory.org/index.php/journal/article/view/570">link</a>)</li>
   <li>Benthall, S. (2016) The Human is the Data Science. Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016. (<a href="https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf">link</a>)</li>
  <li>
-   ***Benthall, S. (2014) Designing Networked Publics for Communicative Action. Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1. (<a href="http://commons.pacificu.edu/cgi/viewcontent.cgi?article=1003&context=interface">link</a>)
+   ***Benthall, S. (2014) Designing Networked Publics for Communicative Action. Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1. (<a href="https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0">link</a>)
  </li>  
 </ul>
 
