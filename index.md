@@ -16,7 +16,7 @@ Current research includes:
 
 * Agent-Based Modeling of the impact of privacy by design on COVID-19 contact tracing applications, with the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health.</a>
 
-* Studying the role of law in the maintenance of open source infrastructure, with <a href="https://www.guariniglobal.org/">Guarini Global Law and Tech</a>.
+* Exploring parallels between the financial sector and technology sector
 
 * Building tools for computational analysis of organizational influence and diversity in Internet governance, with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
