@@ -5,10 +5,13 @@ layout: home
 
 # Sebastian Benthall, Ph. D.
 
+* National Science Foundation Social, Behavioral and Economic Sciences Postdoctoral Research Fellow
 * Research Fellow, Information Law Institute, NYU School of Law
 * Research Engineer, Econ-Ark
 
-My research applies computational methods to questions about the political economy of information. 
+My research applies computational methods to questions about the political economy of information.
+
+I am an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105301&HistoricalAwards=false">NSF SBE Postdoctoral Research Fellow</a> studying heterogeneous agent modeling of the personal data economy.
 
 Current research includes:
 
@@ -16,13 +19,7 @@ Current research includes:
 
 * Agent-Based Modeling of the impact of privacy by design on COVID-19 contact tracing applications, with the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health.</a>
 
-* Exploring parallels between the financial sector and technology sector
-
 * Building tools for computational analysis of organizational influence and diversity in Internet governance, with <a href="https://github.com/datactive/bigbang">BigBang</a>.
-
-A goal of my research is to develop innovative approaches to the regulation of technology.
-
-A secondary goal is to address the social and philosophical grounds of my own research methods.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 <p>*** - indicates a refereed publication.</p>
@@ -58,17 +55,24 @@ A secondary goal is to address the social and philosophical grounds of my own re
 <h3>Miscellaneous</h3>
 <ul>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
-  
-  <li>
-    Benthall, S. (2013) "Why Weird Twitter", <em>Ethnography Matters</em>. (<a href="http://ethnographymatters.net/blog/2013/06/30/why-weird-twitter-part-1/">link</a>) <em>A brief and unlikely foray into social media ethnography...</em>
-  </li>
   <li>
     Benthall, S. and Chuang, J. (2013) "Computational Asymmetry in Strategic Bayesian Networks,” Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
       </li>
-  <li>Benthall, S. (2009). An open source web GIS solution-the OpenGeo stack. <em>GEO informatics, 12</em>, 40-43.
-  </li>
   <li>***Benthall, S. (2007) "Kudos for the Mindless Expert." Review of Expert Political Judgment, by Philip Tetlock. Critical Review, Volume 19, Issue 1, January 2007, pages 65-79. (<a href="http://www.tandfonline.com/doi/abs/10.1080/08913810701499643">link</a>)
       </li>
+</ul>
+
+<h2 id="writing"><a href="#writing">&sect;</a>Writing</h2>
+<p>Some more "popular" writing, for a slightly less academic audience. I've included some of my most widely read blog posts.</p>
+<ul>
+  <li>Benthall, S. and Goldenfein, J. "Essential Infrastructures". <i>Phenomenal World</i>. (<a href="https://phenomenalworld.org/analysis/essential-infrastructures">link</a>)</li>
+  <li>Benthall, S. and Haynes, B. "Understanding Race with AI". <i>Public Books</i>. (<a href="https://www.publicbooks.org/understanding-race-with-ai/">link</a>)</li>
+  <li>
+    Benthall, S. (2013) "Why Weird Twitter", <em>Ethnography Matters</em>. (<a href="http://ethnographymatters.net/blog/2013/06/30/why-weird-twitter-part-1/">link</a>) <em>A brief and unlikely foray into social media ethnography...</em>
+  </li>
+  <li>Benthall, S. (2009). An open source web GIS solution-the OpenGeo stack. <em>GEO informatics, 12</em>, 40-43.
+  </li>
+
 </ul>
     
 <h2>Software</h2>
