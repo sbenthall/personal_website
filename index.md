@@ -23,8 +23,9 @@ Current research includes:
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 <p>*** - indicates a refereed publication.</p>
-<h3>Security and Privacy</h3>
+<h3>AI, Security and Privacy</h3>
 <ul>
+   <li>***Benthall, S., and Goldenfein, J. (2021) Artificial Intelligence and the Purpose of Social Systems. Proceedings of the 2021 AAAI/ACM Conference on AI Ethics and Society (AIES'21). (<a href="http://sbenthall.net/papers/aipss.pdf">link</a>)</li>
    <li>***Benthall, S. (2019) Situated Information Flow Theory. <i>Proceedings of the 6th Annual Hot Topics in the Science of Security (HoTSoS).</i> (<a href="papers/sift.pdf">pdf</a>)</li>
    <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., & Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
    <li>***Benthall, S., G&#252;rses, S., and Nissenbaum, H. (2017) Contextual Integrity through the Lens of Computer Science. Foundations and Trends in Privacy and Security, vol. 2, no. 1, pp. 1–69, 2017. DOI: <a href="http://www.nowpublishers.com/article/Details/SEC-016">10.1561/3300000016</a>. <em>Winner of PLSC 2017 Junior Scholars Award.</em>(<a href="papers/3300000016-Benthall-Vol2-SEC-0016.pdf">pdf</a>)</li>
@@ -40,6 +41,7 @@ Current research includes:
 
 <h3>Computational Social Science</h3>
 <ul>
+  <li>Benthall, S., and Strandburg, K. (2021) Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
   <li>Benthall, S. and Seth, M. Software Engineering as Research Method: Aligning Roles in Econ-ARK. In Meghann Agarwal, Chris Calloway, Dillon Niederhut and David Shupe, editors, Proceedings of the 19th Python in Science Conference, pages 156 – 161, 2020. doi:10.25080/Majora-342d178e-015 (<a href="http://conference.scipy.org/proceedings/scipy2020/sebastian_benthall.html">link</a>)</li>
   <li>***Benthall, Sebastian, and Bruce D. Haynes. "Racial categories in machine learning." Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019. (<a href="https://dl.acm.org/citation.cfm?id=3287575">link</a>) (<a href="https://youtu.be/wWs6RucxvPI?t=1173">video</a>)</li>
   <li>
@@ -97,10 +99,10 @@ Current research includes:
  <p>2011 - 2018 : PhD at UC Berkeley's School of Information.</p>
  <p>2007 - 2011 : Worked in programming, management, and marketing in geospatial civic tech company, OpenGeo.</p>
  <p>2007 : B.A., Brown University, Cognitive Science.</p>
-    
+
 <h2>On the Web</h2>
 
-<p><a href="http://www.ischool.berkeley.edu/people/students/sebastianbenthall">bio</a> <a href="http://digifesto.com">blog</a> <a href="http://twitter.com/sbenthall">twitter</a> <a href="http://lnkd.in/dQXWUp3">linkedin</a> <a href="https://github.com/sbenthall">github</a> <a href="http://www.slideshare.net/SebastianBenthall">slideshare</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
+<p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="http://twitter.com/sbenthall">twitter</a> <a href="http://lnkd.in/dQXWUp3">linkedin</a>  <a href="http://www.slideshare.net/SebastianBenthall">slideshare</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
 
 <h2>Contact</h2>
 <p>e-mail: spb413 at nyu dot edu</p>
