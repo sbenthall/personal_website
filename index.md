@@ -41,7 +41,7 @@ Current research includes:
 
 <h3>Computational Social Science</h3>
 <ul>
-  <li>Benthall, S., and Strandburg, K. (2021) Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
+  <li>***Benthall, S., and Strandburg, K. (2021) Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
   <li>Benthall, S. and Seth, M. Software Engineering as Research Method: Aligning Roles in Econ-ARK. In Meghann Agarwal, Chris Calloway, Dillon Niederhut and David Shupe, editors, Proceedings of the 19th Python in Science Conference, pages 156 – 161, 2020. doi:10.25080/Majora-342d178e-015 (<a href="http://conference.scipy.org/proceedings/scipy2020/sebastian_benthall.html">link</a>)</li>
   <li>***Benthall, Sebastian, and Bruce D. Haynes. "Racial categories in machine learning." Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019. (<a href="https://dl.acm.org/citation.cfm?id=3287575">link</a>) (<a href="https://youtu.be/wWs6RucxvPI?t=1173">video</a>)</li>
   <li>
