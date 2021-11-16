@@ -17,7 +17,7 @@ Current research includes:
 
 * Designing software for macroeconomic simulations with heterogeneous agents, with <a href="https://econ-ark.org/">Econ-ARK</a>.
 
-* Agent-Based Modeling of the impact of privacy by design on COVID-19 contact tracing applications, with the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health.</a>
+* Developing methods for using Agent-Based Modeling to hold software accountable to legal regulation (co-PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
 
 * Building tools for computational analysis of organizational influence and diversity in Internet governance, with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
