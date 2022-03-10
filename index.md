@@ -56,6 +56,8 @@ Current research includes:
 
 <h3>Miscellaneous</h3>
 <ul>
+  <li>Benthall, S. and Vilijoen, S. (2021) Data Market Discipline: From Financial Regulation to Data Governance. J. Int'l & Comp. L., 8, p.459. (<a href="https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf">link</a>)</li>
+  <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>
     Benthall, S. and Chuang, J. (2013) "Computational Asymmetry in Strategic Bayesian Networks,” Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
