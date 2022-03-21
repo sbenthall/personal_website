@@ -83,7 +83,6 @@ Current research includes:
   <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, a toolkit for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, a toolkit for structural economic modeling with heterogeneous agents.</li>
   <li><a href="http://github.com/sbenthall/bigbang">BigBang</a> is a toolkit for the scientific analysis of open collaborative communities.</li>
-  <li><a href="http://twitter.com/TheTweetserve">@TheTweetserve</a> is a Twitter bot that's an experiment in subverting preferential attachment dynamics in networked public formation. (<a href="http://github.com/sbenthall/tweetserve">github</a>)</li>
   <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
