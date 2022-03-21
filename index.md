@@ -44,11 +44,11 @@ Current research includes:
   <li>***Benthall, S., and Strandburg, K. (2021) Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
   <li>Benthall, S. and Seth, M. Software Engineering as Research Method: Aligning Roles in Econ-ARK. In Meghann Agarwal, Chris Calloway, Dillon Niederhut and David Shupe, editors, Proceedings of the 19th Python in Science Conference, pages 156 – 161, 2020. doi:10.25080/Majora-342d178e-015 (<a href="http://conference.scipy.org/proceedings/scipy2020/sebastian_benthall.html">link</a>)</li>
   <li>***Benthall, Sebastian, and Bruce D. Haynes. "Racial categories in machine learning." Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019. (<a href="https://dl.acm.org/citation.cfm?id=3287575">link</a>) (<a href="https://youtu.be/wWs6RucxvPI?t=1173">video</a>)</li>
+  <li>Benthall, S. (2016) Philosophy of Computational Social Science. <em>Cosmos and History: The Journal of Natural and Social Philosophy</em>, Vol 12, No 2. (<a href="http://cosmosandhistory.org/index.php/journal/article/view/570">link</a>)</li>
+  <li>Benthall, S. (2016) The Human is the Data Science. Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016. (<a href="https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf">link</a>)</li>
   <li>
     ***Benthall, S. (2015) Testing Generative Models of Online Collaboration with BigBang. SciPy 2015. Ed. Kathryn Huff and James Bergstra. (<a href="http://conference.scipy.org/proceedings/scipy2015/sebastian_benthall.html">link</a>)
   </li>
-  <li>Benthall, S. (2016) Philosophy of Computational Social Science. <em>Cosmos and History: The Journal of Natural and Social Philosophy</em>, Vol 12, No 2. (<a href="http://cosmosandhistory.org/index.php/journal/article/view/570">link</a>)</li>
-  <li>Benthall, S. (2016) The Human is the Data Science. Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016. (<a href="https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf">link</a>)</li>
  <li>
    ***Benthall, S. (2014) Designing Networked Publics for Communicative Action. Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1. (<a href="https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0">link</a>)
  </li>  
@@ -57,7 +57,6 @@ Current research includes:
 <h3>Miscellaneous</h3>
 <ul>
   <li>***Benthall, S. and Vilijoen, S. (2021) Data Market Discipline: From Financial Regulation to Data Governance. J. Int'l & Comp. L., 8, p.459. (<a href="https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf">link</a>)</li>
-  <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>
     Benthall, S. and Chuang, J. (2013) "Computational Asymmetry in Strategic Bayesian Networks,” Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
@@ -81,11 +80,11 @@ Current research includes:
     
 <h2>Software</h2>
 <ul>
+  <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, a toolkit for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, a toolkit for structural economic modeling with heterogeneous agents.</li>
   <li><a href="http://github.com/sbenthall/bigbang">BigBang</a> is a toolkit for the scientific analysis of open collaborative communities.</li>
   <li><a href="http://twitter.com/TheTweetserve">@TheTweetserve</a> is a Twitter bot that's an experiment in subverting preferential attachment dynamics in networked public formation. (<a href="http://github.com/sbenthall/tweetserve">github</a>)</li>
-      <li><a href="http://github.com/sbenthall/poll.emic">poll.emic</a> - a tool for gathering egocentric networks of mentions on Twitter</li>
-      <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
+  <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
 <h2>Dissertation</h2>
