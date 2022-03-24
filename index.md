@@ -3,7 +3,7 @@ layout: home
 ---
 <img id="headshot" src="sebastian-benthall.jpg" width="200">
 
-# Sebastian Benthall, Ph. D.
+# Sebastian Benthall, Ph.D.
 
 * National Science Foundation Social, Behavioral and Economic Sciences Postdoctoral Research Fellow
 * Research Fellow, Information Law Institute, NYU School of Law
