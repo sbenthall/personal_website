@@ -95,7 +95,6 @@ Current research includes:
 <p>2021 - NSF SBE Postdoctoral Research Fellow</p>
 <p>2019 - Research Engineer, Econ-Ark</P>
 <p>2018 - : Research Scholar at NYU. <a href="https://www.guariniglobal.org/">GGLT</a> (2019 - ), <a href="http://www.law.nyu.edu/centers/ili">ILI</a> (2018 - ) and <a href="http://cyber.nyu.edu/">CCS</a> (2018 - 2019).</p>
- <p>2019 : Senior Data Engineer at Skopos Labs</p>
  <p>2016 - 2018 : Researcher at Cornell Tech under Prof. Helen Nissenbaum.</p>
  <p>2016 - 2019 : Data scientist at Ion Channel.</p>
  <p>2011 - 2018 : PhD at UC Berkeley's School of Information.</p>
