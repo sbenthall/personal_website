@@ -25,6 +25,7 @@ Current research includes:
 <p>*** - indicates a refereed publication.</p>
 <h3>AI, Security and Privacy</h3>
 <ul>
+   <li>***Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2022). Privacy and contact tracing efficacy. Journal of the Royal Society Interface, 19(194).</li>
    <li>***Benthall, S., and Goldenfein, J. (2021) Artificial Intelligence and the Purpose of Social Systems. Proceedings of the 2021 AAAI/ACM Conference on AI Ethics and Society (AIES'21). (<a href="http://sbenthall.net/papers/aipss.pdf">link</a>)</li>
    <li>***Benthall, S. (2019) Situated Information Flow Theory. <i>Proceedings of the 6th Annual Hot Topics in the Science of Security (HoTSoS).</i> (<a href="papers/sift.pdf">pdf</a>)</li>
    <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., & Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
