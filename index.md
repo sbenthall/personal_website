@@ -28,7 +28,7 @@ Current projects include:
 <p>*** - indicates a refereed publication.</p>
 
 <ul>
-   <li>***Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. (2022) AMPM'22: Second Workshop in Agent-based Modeling \& Policy-Making.  Saarbrücken, Germany</li>
+   <li>***Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. (2022) AMPM'22: Second Workshop in Agent-based Modeling & Policy-Making.  Saarbrücken, Germany</li>
    <li>***Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2022). Privacy and contact tracing efficacy. Journal of the Royal Society Interface, 19(194).</li>
    <li>***Benthall, S. and Vilijoen, S. (2021) Data Market Discipline: From Financial Regulation to Data Governance. J. Int'l & Comp. L., 8, p.459. (<a href="https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf">link</a>)</li>
    <li>Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2021). At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling. AMPM’21: First Workshop in Agent-based Modeling & Policy-Making, December 8, 2021, Vilnius, Lithuania</li>
