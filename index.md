@@ -5,23 +5,24 @@ layout: home
 
 # Sebastian Benthall, Ph.D.
 
-* National Science Foundation Social, Behavioral and Economic Sciences Postdoctoral Research Fellow
-* Research Fellow, Information Law Institute, NYU School of Law
-* Research Engineer, Econ-Ark
+* <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105301&HistoricalAwards=false">National Science Foundation Social, Behavioral and Economic Sciences Postdoctoral Research Fellow</a>
+* Senior Research Fellow, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
+* External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
+* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>
 
-I research how technology, law, finance, and society interact using computational methods.
+Current projects include:
 
-I am an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105301&HistoricalAwards=false">NSF SBE Postdoctoral Research Fellow</a> studying heterogeneous agent modeling of the personal data economy.
+* Designing Fiduciary Artificial Intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI?
 
-Current research includes:
+* Simulating the interaction between consumers and financial markets by building <a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a> with a <a href="https://www.icds.psu.edu/penn-state-smeals-liechty-leading-darpa-funded-project-to-study-financial-disruptions/">DARPA-funded</a> team..
 
-* Designing fiduciary artificial intelligence
+* Developing new tools for building and solving lifecycle models in heteroeneous agent macroeconomics for the <a href="https://github.com/econ-ark/HARK">HARK</a> project.
 
-* Developing methods for using Agent-Based Modeling to hold software accountable to legal regulation (co-PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
 
-* Building tools for macroeconomic and financial simulations with heterogeneous agents, with <a href="https://econ-ark.org/">Econ-ARK</a> and <a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>.
+* Developing methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
 
-* Building tools for computational analysis of organizational influence and diversity in Internet governance, with <a href="https://github.com/datactive/bigbang">BigBang</a>.
+
+* Building <a href="https://github.com/datactive/bigbang">BigBang</a>, a suite of computational social science tools for studying standards-setting and infrastructure governance, and contributing to the <a href="https://datatracker.ietf.org/group/rasprg/about/">RASP</a> IRTF Research Group.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 <p>*** - indicates a refereed publication.</p>
