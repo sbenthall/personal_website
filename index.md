@@ -12,7 +12,7 @@ layout: home
 
 Current projects include:
 
-* Designing Fiduciary Artificial Intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI?
+* Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI?
 
 * Simulating the interaction between consumers and financial markets by building <a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a> with a <a href="https://www.icds.psu.edu/penn-state-smeals-liechty-leading-darpa-funded-project-to-study-financial-disruptions/">DARPA-funded</a> team..
 
