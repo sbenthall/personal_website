@@ -22,10 +22,11 @@ layout: home
 <p>*** - indicates a refereed publication.</p>
 
 <ul>
-   <li>***Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. (2022) AMPM'22: Second Workshop in Agent-based Modeling & Policy-Making.  Saarbrücken, Germany</li>
-   <li>***Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2022). Privacy and contact tracing efficacy. Journal of the Royal Society Interface, 19(194).</li>
+   <li>***Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. (2022) Simulating Heterogeneous Portfolio Choices and
+Financial Market Outcomes. AMPM'22: Second Workshop in Agent-based Modeling & Policy-Making.  Saarbrücken, Germany</li>
+   <li>***Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2022). Privacy and contact tracing efficacy. Journal of the Royal Society Interface, 19(194). (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0369">link</a>)</li>
    <li>***Benthall, S. and Vilijoen, S. (2021) Data Market Discipline: From Financial Regulation to Data Governance. J. Int'l & Comp. L., 8, p.459. (<a href="https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf">link</a>)</li>
-   <li>Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2021). At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling. AMPM’21: First Workshop in Agent-based Modeling & Policy-Making, December 8, 2021, Vilnius, Lithuania</li>
+   <li>Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2021). At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling. AMPM’21: First Workshop in Agent-based Modeling & Policy-Making, December 8, 2021, Vilnius, Lithuania. (<a href="https://ceur-ws.org/Vol-3182/paper10.pdf">link</a>)</li>
    <li>***Benthall, S., and Strandburg, K. (2021)Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
    <li>***Benthall, S., and Goldenfein, J. (2021) Artificial Intelligence and the Purpose of Social Systems. Proceedings of the 2021 AAAI/ACM Conference on AI Ethics and Society (AIES'21). (<a href="http://sbenthall.net/papers/aipss.pdf">link</a>)</li>
    <li>***Benthall, S. and Seth, M. Software Engineering as Research Method: Aligning Roles in Econ-ARK. In Meghann Agarwal, Chris Calloway, Dillon Niederhut and David Shupe, editors, Proceedings of the 19th Python in Science Conference, pages 156 – 161, 2020. doi:10.25080/Majora-342d178e-015 (<a href="http://conference.scipy.org/proceedings/scipy2020/sebastian_benthall.html">link</a>)</li>
