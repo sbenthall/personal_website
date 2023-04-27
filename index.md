@@ -10,18 +10,12 @@ layout: home
 * External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
 * Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>
 
-Current projects include:
+<h2 id="projects"><a href="#projects">&sect;</a> Current Projects</h2>
 
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI?
-
 * Simulating the interaction between consumers and financial markets by building <a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a> with a <a href="https://www.icds.psu.edu/penn-state-smeals-liechty-leading-darpa-funded-project-to-study-financial-disruptions/">DARPA-funded</a> team..
-
 * Developing new tools for building and solving lifecycle models in heterogeneous agent macroeconomics for the <a href="https://github.com/econ-ark/HARK">HARK</a> project.
-
-
 * Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-)PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
-
-
 * Building <a href="https://github.com/datactive/bigbang">BigBang</a>, a suite of computational social science tools for studying standards-setting and infrastructure governance, and contributing to the <a href="https://datatracker.ietf.org/group/rasprg/about/">RASP</a> IRTF Research Group.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
@@ -78,7 +72,7 @@ Current projects include:
    </li>
 </ul>
     
-<h2>Software</h2>
+<h2 id="software"><a href="#software">&sect;</a>Software</h2>
 <ul>
   <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, for structural economic modeling with heterogeneous agents.</li>
@@ -86,10 +80,11 @@ Current projects include:
   <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
-<h2>Dissertation</h2>
+<h2 id="dissertation">Dissertation</h2>
 
 <p>Sebastian Benthall. <em>Context, Causality, and Information Flow: Implications for Privacy Engineering, Security, and Data Economics</em>. Ph.D. dissertation. Advisors: John Chuang and Deirdre Mulligan. University of California, Berkeley. 2018. (<a href="https://escholarship.org/uc/item/5sg7q32q">eScholarship</a>) (<a href="https://www.slideshare.net/SebastianBenthall/context-causality-and-information-flow-implications-for-privacy-engineering-security-and-data-economics">slideshare</a>)</p>
 
+<!--
 <h2>Background</h2>
 <p>2021 - NSF SBE Postdoctoral Research Fellow</p>
 <p>2019 - Research Engineer, Econ-Ark</P>
@@ -99,6 +94,7 @@ Current projects include:
  <p>2011 - 2018 : PhD at UC Berkeley's School of Information.</p>
  <p>2007 - 2011 : Worked in programming, management, and marketing in geospatial civic tech company, OpenGeo.</p>
  <p>2007 : B.A., Brown University, Cognitive Science.</p>
+ -->
 
 <h2>On the Web</h2>
 
