@@ -68,7 +68,7 @@ Financial Market Outcomes. AMPM '22: Second Workshop in Agent-based Modeling & P
   <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., & Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>
-    Benthall, S. and Chuang, J. (2013) "Computational Asymmetry in Strategic Bayesian Networks,” Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
+    Benthall, S. and Chuang, J. (2013) Computational Asymmetry in Strategic Bayesian Networks. Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
   </li>
   <li>
    Fanti, G., David, Y. B., Benthall, S., Brewer, E., and Shenker, S.. (2013) Rangzen: Circumventing Government-Imposed Communication Blackouts. Technical Report UCB/EECS-2013-128, EECS Department, University of California, Berkeley, Jul 2013. (<a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html">link</a>)
