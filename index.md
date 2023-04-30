@@ -54,9 +54,11 @@ Financial Market Outcomes. AMPM '22: Second Workshop in Agent-based Modeling & P
 <ul>
   <li>Benthall, S. and Goldenfein, J. "Essential Infrastructures". <i>Phenomenal World</i>. (<a href="https://phenomenalworld.org/analysis/essential-infrastructures">link</a>)</li>
   <li>Benthall, S. and Haynes, B. "Understanding Race with AI". <i>Public Books</i>. (<a href="https://www.publicbooks.org/understanding-race-with-ai/">link</a>)</li>
+  <!--
   <li>
     Benthall, S. (2013) "Why Weird Twitter", <em>Ethnography Matters</em>. (<a href="http://ethnographymatters.net/blog/2013/06/30/why-weird-twitter-part-1/">link</a>) <em>A brief and unlikely foray into social media ethnography...</em>
   </li>
+  -->
   <li>Benthall, S. (2009). An open source web GIS solution-the OpenGeo stack. <em>GEO informatics, 12</em>, 40-43.
   </li>
 </ul>
