@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img id="headshot" src="sebastian-benthall.jpg" width="200">
+<img id="headshot" src="sebastian-benthall.jpg" class="pure-img" width="200">
 
 # Sebastian Benthall, Ph.D.
 
@@ -19,34 +19,18 @@ layout: home
 * Building <a href="https://github.com/datactive/bigbang">BigBang</a>, a suite of computational social science tools for studying standards-setting and infrastructure governance, and contributing to the <a href="https://datatracker.ietf.org/group/rasprg/about/">RASP</a> IRTF Research Group.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
-<p>*** - indicates a refereed publication.</p>
+
+<h3>Research Articles</h3>
 
 <ul>
-   <li>***Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. (2022) Simulating Heterogeneous Portfolio Choices and
-Financial Market Outcomes. AMPM '22: Second Workshop in Agent-based Modeling & Policy-Making.  Saarbrücken, Germany. (<a href="https://ceur-ws.org/Vol-3420/paper4.pdf">link</a>)</li>
-   <li>***Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2022). Privacy and contact tracing efficacy. Journal of the Royal Society Interface, 19(194). (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0369">link</a>)</li>
-   <li>***Benthall, S. and Vilijoen, S. (2021) Data Market Discipline: From Financial Regulation to Data Governance. J. Int'l & Comp. L., 8, p.459. (<a href="https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf">link</a>)</li>
-   <li>Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J. (2021). At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling. AMPM ’21: First Workshop in Agent-based Modeling & Policy-Making, December 8, 2021, Vilnius, Lithuania. (<a href="https://ceur-ws.org/Vol-3182/paper10.pdf">link</a>)</li>
-   <li>***Benthall, S., and Strandburg, K. (2021) Agent-Based Modeling as Legal Theory Tool. Frontiers in Physics. (<a href="https://www.frontiersin.org/articles/10.3389/fphy.2021.666386/full">link</a>)</li>
-   <li>***Benthall, S., and Goldenfein, J. (2021) Artificial Intelligence and the Purpose of Social Systems. Proceedings of the 2021 AAAI/ACM Conference on AI Ethics and Society (AIES '21). (<a href="http://sbenthall.net/papers/aipss.pdf">link</a>)</li>
-   <li>***Benthall, S. and Seth, M. Software Engineering as Research Method: Aligning Roles in Econ-ARK. In Meghann Agarwal, Chris Calloway, Dillon Niederhut and David Shupe, editors, Proceedings of the 19th Python in Science Conference, pages 156 – 161, 2020. doi:10.25080/Majora-342d178e-015 (<a href="http://conference.scipy.org/proceedings/scipy2020/sebastian_benthall.html">link</a>)</li>
-   <li>***Benthall, S. (2019) Situated Information Flow Theory. <i>Proceedings of the 6th Annual Hot Topics in the Science of Security (HoTSoS).</i> (<a href="papers/sift.pdf">pdf</a>)</li>
-   <li>***Benthall, Sebastian, and Bruce D. Haynes. "Racial categories in machine learning." Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019. (<a href="https://dl.acm.org/citation.cfm?id=3287575">link</a>) (<a href="https://youtu.be/wWs6RucxvPI?t=1173">video</a>)</li>
-   <li>***Benthall, S., G&#252;rses, S., and Nissenbaum, H. (2017) Contextual Integrity through the Lens of Computer Science. Foundations and Trends in Privacy and Security, vol. 2, no. 1, pp. 1–69, 2017. DOI: <a href="http://www.nowpublishers.com/article/Details/SEC-016">10.1561/3300000016</a>. <em>Winner of PLSC 2017 Junior Scholars Award.</em>(<a href="papers/3300000016-Benthall-Vol2-SEC-0016.pdf">pdf</a>)</li>
-   <li>***Benthall, S. (2017) Assessing Software Supply Chain Risk Using Public Data. IEEE STC 2017 Software Technology Conference. (<a href="http://ieeexplore.ieee.org/document/8234461/">link</a>) 
-   </li>
-   <li>Benthall, S. (2016) Philosophy of Computational Social Science. <em>Cosmos and History: The Journal of Natural and Social Philosophy</em>, Vol 12, No 2. (<a href="http://cosmosandhistory.org/index.php/journal/article/view/570">link</a>)</li>
-   <li>***Benthall, S., Pinney, T., Herz, J., Plummer, K. (2016) An Ecological Approach to Software Supply Chain Risk Management. <em>Proceedings of the 15th Python in Science Conference</em>. p. 136-142. Ed. Sebastian Benthall and Scott Rostrup. (<a href="https://conference.scipy.org/proceedings/scipy2016/pdfs/sebastian_benthall.pdf">link</a>) Video:
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/fe91MnttbUA" frameborder="0" allowfullscreen></iframe></li>
-   <li>Benthall, S. (2016) The Human is the Data Science. Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016. (<a href="https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf">link</a>)</li>
-   <li>
-    ***Benthall, S. (2015) Testing Generative Models of Online Collaboration with BigBang. SciPy 2015. Ed. Kathryn Huff and James Bergstra. (<a href="http://conference.scipy.org/proceedings/scipy2015/sebastian_benthall.html">link</a>)
-  </li>
+  {% for ref in site.data.references.publications %}
   <li>
-   ***Benthall, S. (2014) Designing Networked Publics for Communicative Action. Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1. (<a href="https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0">link</a>)
- </li>  
-   <li>***Benthall, S. (2007) "Kudos for the Mindless Expert." Review of Expert Political Judgment, by Philip Tetlock. Critical Review, Volume 19, Issue 1, January 2007, pages 65-79. (<a href="http://www.tandfonline.com/doi/abs/10.1080/08913810701499643">link</a>)
-      </li>
+  {{ref.authors}} ({{ref.year}}). {{ref.title}}. {{ref.venue}}.
+    {% for link in ref.links %}
+    (<a href="{{link.url}}">{{link.label}}</a>)
+    {% endfor %}
+  </li>
+  {% endfor %}
 </ul>
 
 <h3>Popular Writing and Trade Literature</h3>
