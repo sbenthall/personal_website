@@ -76,16 +76,53 @@ publications:
     title: Contextual Integrity through the Lens of Computer Science
     venue: Foundations and Trends in Privacy and Security, vol. 2, no. 1, pp. 1–69, 2017.
     links:
-      - url: http://www.nowpublishers.com/article/Details/SEC-016">10.1561/3300000016
-        label: doi
+      - url: http://www.nowpublishers.com/article/Details/SEC-016
+        label: link
       - url: papers/3300000016-Benthall-Vol2-SEC-0016.pdf
         label: pdf
+  - authors: Benthall, S.
+    year: 2017
+    title: Assessing Software Supply Chain Risk Using Public Data
+    venue: IEEE STC 2017 Software Technology Conference.
+    links:
+      - url: http://ieeexplore.ieee.org/document/8234461/
+        label: link
+  - authors: Benthall, S.
+    year: 2016
+    title: Philosophy of Computational Social Science
+    venue: "Cosmos and History: The Journal of Natural and Social Philosophy, Vol 12, No 2."
+    links:
+      - url: http://cosmosandhistory.org/index.php/journal/article/view/570
+        label: link
+  - authors: Benthall, S., Pinney, T., Herz, J., Plummer, K.
+    year: 2016
+    title: An Ecological Approach to Software Supply Chain Risk Management
+    venue: Proceedings of the 15th Python in Science Conference, p. 136-142. Ed. Sebastian Benthall and Scott Rostrup
+    links:
+      - url: https://www.youtube.com/watch?v=fe91MnttbUA
+        label: video
+      - url: https://conference.scipy.org/proceedings/scipy2016/pdfs/sebastian_benthall.pdf
+        label: pdf
+  - authors: Benthall, S.
+    year: 2016
+    title: The Human is the Data Science
+    venue: Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016.
+    links:
+      - url: https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf
+        label: link
+  - authors: Benthall, S.
+    year: 2015
+    title: Testing Generative Models of Online Collaboration with BigBang
+    venue: SciPy 2015. Ed. Kathryn Huff and James Bergstra
+    links:
+      - url: http://conference.scipy.org/proceedings/scipy2015/sebastian_benthall.html
+        label: link
+  - authors: Benthall, S.
+    year: 2014
+    title: Designing Networked Publics for Communicative Action
+    venue: Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1.
+    links:
+      - url: https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0
+        label: link
 
-#  - Benthall, S. (2017) Assessing Software Supply Chain Risk Using Public Data. IEEE STC 2017 Software Technology Conference. (<a href="http://ieeexplore.ieee.org/document/8234461/">link</a>)
-#  - Benthall, S. (2016) Philosophy of Computational Social Science. <em>Cosmos and History: The Journal of Natural and Social Philosophy</em>, Vol 12, No 2. (<a href="http://cosmosandhistory.org/index.php/journal/article/view/570">link</a>)
-#  - Benthall, S., Pinney, T., Herz, J., Plummer, K. (2016) An Ecological Approach to Software Supply Chain Risk Management. <em>Proceedings of the 15th Python in Science Conference</em>. p. 136-142. Ed. Sebastian Benthall and Scott Rostrup. (<a href="https://conference.scipy.org/proceedings/scipy2016/pdfs/sebastian_benthall.pdf">link</a>)
-#https://www.youtube.com/watch?v=fe91MnttbUA
-#  - Benthall, S. (2016) The Human is the Data Science. Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016. (<a href="https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf">link</a>)
-#  - Benthall, S. (2015) Testing Generative Models of Online Collaboration with BigBang. SciPy 2015. Ed. Kathryn Huff and James Bergstra. (<a href="http://conference.scipy.org/proceedings/scipy2015/sebastian_benthall.html">link</a>)
-#  - Benthall, S. (2014) Designing Networked Publics for Communicative Action. Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1. (<a href="https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0">link</a>)
 #  - Benthall, S. (2007) "Kudos for the Mindless Expert." Review of Expert Political Judgment, by Philip Tetlock. Critical Review, Volume 19, Issue 1, January 2007, pages 65-79. (<a href="http://www.tandfonline.com/doi/abs/10.1080/08913810701499643">link</a>)
