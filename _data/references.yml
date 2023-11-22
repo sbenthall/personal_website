@@ -2,7 +2,7 @@ publications:
   - authors: Benthall, S., and Shekman, D.
     year: 2023
     title: Designing Fiduciary Artificial Intelligence
-    venue: EAMMO '23
+    venue: Proceedings of the 3rd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '23)
     links:
       - url: https://arxiv.org/abs/2308.02435
         label: preprint
