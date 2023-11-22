@@ -6,6 +6,8 @@ publications:
     links:
       - url: https://arxiv.org/abs/2308.02435
         label: preprint
+      - url: https://dl.acm.org/doi/10.1145/3617694.3623230
+        label: acm
   - authors: Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. 
     year: 2022
     title: Simulating Heterogeneous Portfolio Choices and Financial Market Outcomes
