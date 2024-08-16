@@ -1,4 +1,10 @@
 publications:
+  - authors: Benthall, S., and Cummings, R.
+    year: 2024
+    title: Integrating differential privacy and contextual integrity
+    venue: Proceedings of the Symposium on Computer Science and Law
+    - url: https://dl.acm.org/doi/pdf/10.1145/3614407.3643702?casa_token=ZR7wtzpYtp8AAAAA:Om8iAJtGLinHxSmo67QvhYzKWSvlqQ9YcLX9et3B_zD1ePN3Jn-o76cp4Pplop0n48kkppk4Gmw
+      label: acm/pdf
   - authors: Benthall, S., and Shekman, D.
     year: 2023
     title: Designing Fiduciary Artificial Intelligence
@@ -31,7 +37,7 @@ publications:
         label: pdf
   - authors: Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J.
     year: 2021
-    title: "At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling."
+    title: "At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling"
     venue: First Workshop in Agent-based Modeling & Policy-Making (AMPM '21)
     links:
       - url: https://ceur-ws.org/Vol-3182/paper10.pdf
