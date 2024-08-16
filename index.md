@@ -15,9 +15,8 @@ layout: home
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
 * Envisioning new directions for socially beneficial computer and information science research. Supported by the NSF.
 * Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-)PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
-* Developing a new configuration language for structural models in economics iwth the <a href="https://github.com/econ-ark/HARK">HARK</a> project.
-* Building <a href="https://github.com/datactive/bigbang">BigBang</a>, a suite of computational social science tools for studying standards-setting and infrastructure governance, and contributing to the <a href="https://datatracker.ietf.org/group/rasprg/about/">RASP</a> IRTF Research Group.
-* Simulating the interaction between consumers and financial markets by building <a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a> with a <a href="https://www.icds.psu.edu/penn-state-smeals-liechty-leading-darpa-funded-project-to-study-financial-disruptions/">DARPA-funded</a> team.
+* Developing a new configuration language for structural models in economics with the <a href="https://github.com/econ-ark/HARK">HARK</a> project.
+* Building a new dashboard for understanding the human rights implications of activity in Internet Standards bodies with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 
