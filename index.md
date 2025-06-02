@@ -12,11 +12,12 @@ layout: home
 
 <h2 id="projects"><a href="#projects">&sect;</a> Current Projects</h2>
 
+* Building a new open source computational economics tool that combines causal game theory and deep learning econometrics.
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
 * Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&HistoricalAwards=false">NSF #2437745</a>.
+* Developing Contextual Integrity through a technical standards working group and hybridization with Differential Privacy.
 * Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-)PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
 <!--* Developing a new configuration language for structural models in economics with the <a href="https://github.com/econ-ark/HARK">HARK</a> project.-->
-* Building a new dashboard for understanding the human rights implications of activity in Internet Standards bodies with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 
