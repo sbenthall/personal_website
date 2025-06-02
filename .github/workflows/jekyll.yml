@@ -39,6 +39,9 @@ jobs:
           ruby-version: '3.3' # Updated to latest stable Ruby version for 2025
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Install system dependencies for sass-embedded
+        run: sudo apt-get update && sudo apt-get install -y build-essential
+      - name: Install dependencies
       - name: Install dependencies
         run: bundle install
       - name: Setup Pages
@@ -52,6 +55,10 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+
+
+
+
 
   # Deployment job
   deploy:
