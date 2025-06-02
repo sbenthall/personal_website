@@ -8,14 +8,14 @@ layout: home
 * Senior Research Fellow, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
 * Research Scientist, International Computer Science Institute
 * External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
-* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>
+<!--* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>-->
 
 <h2 id="projects"><a href="#projects">&sect;</a> Current Projects</h2>
 
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
-* Envisioning new directions for socially beneficial computer and information science research. Supported by the NSF.
+* Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&HistoricalAwards=false">NSF #2437745</a>.
 * Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-)PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
-* Developing a new configuration language for structural models in economics with the <a href="https://github.com/econ-ark/HARK">HARK</a> project.
+<!--* Developing a new configuration language for structural models in economics with the <a href="https://github.com/econ-ark/HARK">HARK</a> project.-->
 * Building a new dashboard for understanding the human rights implications of activity in Internet Standards bodies with <a href="https://github.com/datactive/bigbang">BigBang</a>.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
@@ -61,9 +61,9 @@ layout: home
     
 <h2 id="software"><a href="#software">&sect;</a>Software</h2>
 <ul>
+  <li><a href="http://github.com/sbenthall/bigbang">BigBang</a>, for the analysis of standards-seting, infrastructure governance, and open collaborative communities. This analytics engine serves as the back-end for Article 19's <a href="https://www.article19.org/resources/internet-standards-almanac-whos-really-shaping-the-internet/"><em>Guess Who!</em></a> tool, part of their Internet Standards Almanac.</li>
   <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, for structural economic modeling with heterogeneous agents.</li>
-  <li><a href="http://github.com/sbenthall/bigbang">BigBang</a>, for the analysis of standards-seting, infrastructure governance, and open collaborative communities. A founding technology of the <a href="https://datatracker.ietf.org/rg/rasprg/about/">Reserach and Analysis of Standard-Setting Processes Research Group</a> of the Internet Engineering Task Force.</li>
   <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
