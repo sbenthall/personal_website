@@ -1,4 +1,11 @@
 publications:
+  - authors: Choksi, MZ, Mandel, I, and Benthall, S.
+    year: 2025
+    title: The Brief and Wondrous Life of Open Models
+    venue: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)
+    links:
+      - url: https://dl.acm.org/doi/abs/10.1145/3715275.3732206
+        label: acm
   - authors: Benthall, S., and Cummings, R.
     year: 2024
     title: Integrating differential privacy and contextual integrity

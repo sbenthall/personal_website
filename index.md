@@ -5,7 +5,7 @@ layout: home
 
 # Sebastian Benthall, Ph.D.
 
-* Senior Research Fellow, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
+* Research Director, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
 * Research Scientist, International Computer Science Institute
 * External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
 <!--* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>-->
