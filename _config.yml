@@ -14,18 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sebastian Benthall, PhD
-#email: your-email@example.com
+author: Sebastian Benthall
+# Short; appended to the site title in <title>. Keep it brief or tabs get unreadable.
+tagline: Fiduciary AI, causal economic modeling, and privacy
 description: >- # this means to ignore newlines until "baseurl:"
-  Sebastian Benthall's website.
+  Research Director at NYU's Information Law Institute and Research Scientist at
+  ICSI, working on causal economic modeling, fiduciary AI, and privacy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sbenthall.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sbenthall
-github_username:  sbenthall
+url: "https://sbenthall.net" # the base hostname & protocol for your site, e.g. http://example.com
+
+# jekyll-seo-tag reads `image` per page, not site-wide, so set it as a default.
+# This is the picture shown when a link to the site is shared.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /sebastian-benthall.jpg
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

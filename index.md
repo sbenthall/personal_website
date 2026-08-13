@@ -3,7 +3,7 @@ layout: home
 ---
 <img id="headshot" src="sebastian-benthall.jpg" class="pure-img" width="200" alt="Sebastian Benthall's face, smiling very handsomely">
 
-# Sebastian Benthall, Ph.D.
+# Sebastian Benthall
 
 * Research Director, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
 * Research Scientist, International Computer Science Institute
