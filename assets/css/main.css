@@ -155,7 +155,14 @@ li {
   display: flex;
   align-items: center;
   gap: 1.5rem;
-  margin-bottom: 3em;
+  margin-bottom: 2.25em;
+}
+
+/* Lead paragraph. Slightly up from body size so it reads as a summary rather
+   than as the first item of prose. The h2 below supplies the space beneath it. */
+#bio {
+  font-size: 1.08rem;
+  margin-bottom: 0;
 }
 
 #headshot {

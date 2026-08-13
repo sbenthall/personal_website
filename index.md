@@ -14,6 +14,8 @@ layout: home
   </div>
 </header>
 
+<p id="bio">I study how software, markets, and law shape one another. I build open source tools for modeling those dynamics. My current work asks what it takes for AI to be trustworthy and safe, drawing on agency law, contextual integrity, and economics.</p>
+
 <h2 id="projects"><a href="#projects">&sect;</a>Current Projects</h2>
 
 * Building <a href="https://scikit-agent.org">scikit-agent</a>, a causal economic world modeling system and scientific library. This combines causal game theory and deep learning econometrics. Applying this to AI system and regulatory design.
