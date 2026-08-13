@@ -126,6 +126,13 @@ p {
   margin-bottom: 1.1em;
 }
 
+/* Local replacement for Pure's `pure-img`, applied to every image rather than
+   opted into per tag, so nothing can overflow the measure. */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 a {
    color: var(--link);
 }
@@ -142,7 +149,50 @@ li {
    padding-bottom: 1em
 }
 
+/* Header block. Replaces the floated headshot, which collided with the h1 on
+   narrow screens and put the image ahead of the name in reading order. */
+#masthead {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 3em;
+}
+
 #headshot {
-   float: right;
-   padding: 5px;
+  /* Never let the avatar absorb the flex line's spare space or shrink. */
+  flex: none;
+  width: 104px;
+  height: 104px;
+  border-radius: 50%;
+  /* The source is 300x440 portrait, so a square crop needs help: cover, biased
+     above centre to keep the face in the circle rather than the collar. */
+  object-fit: cover;
+  object-position: 50% 30%;
+}
+
+#masthead h1 {
+  margin-bottom: 0.3em;
+}
+
+#affiliations {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.5;
+}
+
+#affiliations li {
+  /* Overrides the 1em the reference lists want. */
+  padding-bottom: 0.25em;
+}
+
+/* Stack once the two columns stop fitting side by side. */
+@media (max-width: 32rem) {
+  #masthead {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.1rem;
+  }
 }

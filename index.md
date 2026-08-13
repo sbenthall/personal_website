@@ -1,14 +1,18 @@
 ---
 layout: home
 ---
-<img id="headshot" src="sebastian-benthall.jpg" class="pure-img" width="200" alt="Sebastian Benthall's face, smiling very handsomely">
-
-# Sebastian Benthall
-
-* Research Director, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law
-* Research Scientist, International Computer Science Institute
-* External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
-<!--* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>-->
+<header id="masthead">
+  <img id="headshot" src="sebastian-benthall.jpg" width="300" height="440" alt="Sebastian Benthall's face, smiling very handsomely">
+  <div>
+    <h1>Sebastian Benthall</h1>
+    <ul id="affiliations">
+      <li>Research Director, <a href="https://www.law.nyu.edu/centers/ili">Information Law Institute</a>, New York University School of Law</li>
+      <li>Research Scientist, International Computer Science Institute</li>
+      <li>External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a></li>
+      <!--<li>Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a></li>-->
+    </ul>
+  </div>
+</header>
 
 <h2 id="projects"><a href="#projects">&sect;</a>Current Projects</h2>
 
