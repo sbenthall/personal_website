@@ -14,7 +14,7 @@ layout: home
   </div>
 </header>
 
-<p id="bio">I study how software, markets, and law shape one another. I build open source tools for modeling those dynamics. My current work asks what it takes for AI to be trustworthy and safe, drawing on agency law, contextual integrity, and economics.</p>
+<p id="bio">I study how software, markets, and law shape one another. I build open source tools for modeling those dynamics. My current work asks what it takes for AI to be trustworthy, safe, and good in the long run.</p>
 
 <h2 id="projects"><a href="#projects">&sect;</a>Current Projects</h2>
 
