@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img id="headshot" src="sebastian-benthall.jpg" class="pure-img" width="200">
+<img id="headshot" src="sebastian-benthall.jpg" class="pure-img" width="200" alt="Sebastian Benthall's face, smiling very handsomely">
 
 # Sebastian Benthall, Ph.D.
 
