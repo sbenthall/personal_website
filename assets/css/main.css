@@ -73,6 +73,40 @@ h2 {
    margin-top: 2.75em;
    padding-top: 0.85em;
    border-top: 1px solid var(--border);
+   /* Containing block for the margin-positioned § anchor below. */
+   position: relative;
+}
+
+/* Section anchors. Lifted out of the flow into the left margin so heading text
+   stays flush, and revealed on hover. Deep-linking is preserved without the
+   § sitting there as permanent visual noise. */
+h2 > a[href^="#"]:first-child {
+   position: absolute;
+   left: -1.15em;
+   /* Matches the h2's padding-top, so the § aligns with the heading text rather
+      than with the hairline rule above it. Same font-size, so the same em. */
+   top: 0.85em;
+
+   color: var(--muted);
+   text-decoration: none;
+   font-weight: 400;
+
+   opacity: 0;
+   transition: opacity 120ms ease-in-out;
+}
+
+h2:hover > a[href^="#"]:first-child,
+h2 > a[href^="#"]:first-child:focus-visible {
+   opacity: 1;
+}
+
+/* No margin left to occupy once the viewport is narrower than the measure.
+   Note that rem in a media query is always 16px — it ignores the :root
+   font-size above — so 49rem is 784px, just past the 46rem (782px) body cap. */
+@media (max-width: 49rem) {
+  h2 > a[href^="#"]:first-child {
+     display: none;
+  }
 }
 
 /* The "Research Articles" tier. Demoted to a label so it stops competing with

@@ -10,13 +10,13 @@ layout: home
 * External Faculty, New York University <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent Based Modeling Lab</a>
 <!--* Research Engineer, <a href="https://econ-ark.org/">Econ-Ark</a>-->
 
-<h2 id="projects"><a href="#projects">&sect;</a> Current Projects</h2>
+<h2 id="projects"><a href="#projects">&sect;</a>Current Projects</h2>
 
 * Building <a href="https://scikit-agent.org">scikit-agent</a>, a causal economic world modeling system and scientific library. This combines causal game theory and deep learning econometrics. Applying this to AI system and regulatory design.
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
 * Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&amp;HistoricalAwards=false">NSF #2437745</a>.
 
-<h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
+<h2 id="publications"><a href="#publications">&sect;</a>Publications</h2>
 
 <h3>Research Articles</h3>
 
@@ -61,10 +61,10 @@ layout: home
  <p>2007 : B.A., Brown University, Cognitive Science.</p>
  -->
 
-<h2>On the Web</h2>
+<h2 id="web"><a href="#web">&sect;</a>On the Web</h2>
 
 <p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&amp;hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="https://www.linkedin.com/in/sebastianbenthall/">linkedin</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
 
-<h2>Contact</h2>
+<h2 id="contact"><a href="#contact">&sect;</a>Contact</h2>
 <p>e-mail: spb413 at nyu dot edu</p>
     
