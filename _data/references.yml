@@ -6,7 +6,7 @@ publications:
   - authors: Benthall, S. and Sivan-Sevilla, I.
     year: 2026
     title: "Regulatory Contextual Integrity: Adaptively Regulating Privacy as Contextual Integrity"
-    venue: IEEE Security & Privacy.
+    venue: IEEE Security &amp; Privacy.
     links:
        - url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11475055
          label: ieee
@@ -43,11 +43,11 @@ publications:
   - authors: Benthall, S., Carroll, C.D., David, Z., Liechty, J., Lujan, A., McComb, C., Skar-Gislinge, N. 
     year: 2022
     title: Simulating Heterogeneous Portfolio Choices and Financial Market Outcomes
-    venue: Second Workshop in Agent-based Modeling & Policy-Making (AMPM '22).  Saarbrücken, Germany
+    venue: Second Workshop in Agent-based Modeling &amp; Policy-Making (AMPM '22).  Saarbrücken, Germany
     links:
       - url: https://ceur-ws.org/Vol-3420/paper4.pdf
         label: link
-  - authors: Benthall, S., Hatna, E., Epstein, J. M., & Strandburg, K. J. 
+  - authors: Benthall, S., Hatna, E., Epstein, J. M., &amp; Strandburg, K. J. 
     year: 2022
     title: Privacy and contact tracing efficacy
     venue: Journal of the Royal Society Interface, 19(194)
@@ -57,14 +57,14 @@ publications:
   - authors: Benthall, S. and Viljoen, S.
     year: 2021
     title: "Data Market Discipline: From Financial Regulation to Data Governance"
-    venue: J. Int'l & Comp. L., 8, p.459
+    venue: J. Int'l &amp; Comp. L., 8, p.459
     links:
       - url: https://www.jicl.org.uk/storage/journals/November2021/PaJPuMGBl3PCHs8ABRyd.pdf
         label: pdf
-  - authors: Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., & Strandburg, K. J.
+  - authors: Benthall, S., Tschantz, M. C., Hatna, E., Epstein, J. M., &amp; Strandburg, K. J.
     year: 2021
     title: "At the Boundary of Law and Software: Toward Regulatory Design with Agent-Based Modeling"
-    venue: First Workshop in Agent-based Modeling & Policy-Making (AMPM '21)
+    venue: First Workshop in Agent-based Modeling &amp; Policy-Making (AMPM '21)
     links:
       - url: https://ceur-ws.org/Vol-3182/paper10.pdf
         label: pdf
@@ -154,11 +154,11 @@ publications:
   - authors: Benthall, S.
     year: 2014
     title: Designing Networked Publics for Communicative Action
-    venue: Jenny Davis & Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1.
+    venue: Jenny Davis &amp; Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1.
     links:
       - url: https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0
         label: link
-      - url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e710c554faa47c11830e2820cbfe520c1372e287
+      - url: https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=e710c554faa47c11830e2820cbfe520c1372e287
         label: pdf
 
 #  - Benthall, S. (2007) "Kudos for the Mindless Expert." Review of Expert Political Judgment, by Philip Tetlock. Critical Review, Volume 19, Issue 1, January 2007, pages 65-79. (<a href="http://www.tandfonline.com/doi/abs/10.1080/08913810701499643">link</a>)

@@ -1,7 +1,36 @@
+:root {
+  /* Tells the browser to render form controls, scrollbars, etc. to match. */
+  color-scheme: light dark;
+
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --link: #0b5fa5;
+  --link-visited: #6b3fa0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16181c;
+    --fg: #e6e6e6;
+    --link: #7db8f0;
+    --link-visited: #c4a6e8;
+  }
+}
+
 body {
      margin-left: auto;
      margin-right: auto;
      padding: 2em;
+     background-color: var(--bg);
+     color: var(--fg);
+}
+
+a {
+   color: var(--link);
+}
+
+a:visited {
+   color: var(--link-visited);
 }
 
 li {

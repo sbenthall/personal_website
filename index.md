@@ -14,7 +14,7 @@ layout: home
 
 * Building <a href="https://scikit-agent.org">scikit-agent</a>, a causal economic world modeling system and scientific library. This combines causal game theory and deep learning econometrics. Applying this to AI system and regulatory design.
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
-* Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&HistoricalAwards=false">NSF #2437745</a>.
+* Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&amp;HistoricalAwards=false">NSF #2437745</a>.
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 
@@ -47,9 +47,9 @@ layout: home
 
 <h3>Technical Reports and Pre-prints</h3>
 <ul>
-  <li>Benthall, S., & Lujan, A. (2026). The Design and Composition of Structural Causal Decision Processes. arXiv preprint arXiv:2605.02681. (<a href="https://arxiv.org/abs/2605.02681">link</a>)</li>
-  <li>Benthall, S., & Clark, A. (2025). Validity Is What You Need. arXiv preprint arXiv:2510.27628. (<a href="https://arxiv.org/abs/2510.27628">link</a>)</li>
-  <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., & Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
+  <li>Benthall, S., &amp; Lujan, A. (2026). The Design and Composition of Structural Causal Decision Processes. arXiv preprint arXiv:2605.02681. (<a href="https://arxiv.org/abs/2605.02681">link</a>)</li>
+  <li>Benthall, S., &amp; Clark, A. (2025). Validity Is What You Need. arXiv preprint arXiv:2510.27628. (<a href="https://arxiv.org/abs/2510.27628">link</a>)</li>
+  <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., &amp; Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>
     Benthall, S. and Chuang, J. (2013) Computational Asymmetry in Strategic Bayesian Networks. Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
@@ -92,7 +92,7 @@ layout: home
 
 <h2>On the Web</h2>
 
-<p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="https://www.linkedin.com/in/sebastianbenthall/">linkedin</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
+<p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&amp;hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="https://www.linkedin.com/in/sebastianbenthall/">linkedin</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
 
 <h2>Contact</h2>
 <p>e-mail: spb413 at nyu dot edu</p>
