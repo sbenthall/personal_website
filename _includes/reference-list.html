@@ -4,20 +4,34 @@ Renders a list of references from _data/references.yml.
 Usage: {% include reference-list.html refs=site.data.references.publications %}
 
 Each entry supports: authors, year (optional), title, venue, links (optional list
-of url/label pairs). Values may contain inline HTML (e.g. <strong> around an
-author name, <i> around a publication venue); they are emitted unescaped, so
-write literal ampersands as &amp;.
+of url/label pairs). Values may contain inline HTML; they are emitted unescaped,
+so write literal ampersands as &amp;.
+
+The template handles two things so the data file doesn't have to:
+  - Sebastian Benthall's name is bolded wherever it appears in `authors`.
+  - `venue` is italicised.
+Don't put <strong> or <i> in the data for those; any existing <strong> is
+stripped first so old entries don't end up double-wrapped.
 {%- endcomment -%}
 <ul>
   {%- for ref in include.refs %}
+
+  {%- assign authors = ref.authors | strip | replace: "<strong>", "" | replace: "</strong>", "" -%}
+  {%- comment -%} Checked before bolding, since bolding can leave the string ending in a tag. {%- endcomment -%}
+  {%- assign authors_end = authors | slice: -1 -%}
+  {%- comment -%}
+    Author names are normalised to "Lastname, F." throughout the data file, so a
+    single form needs matching. Write new entries that way and the bolding follows.
+  {%- endcomment -%}
+  {%- assign authors = authors | replace: "Benthall, S.", "<strong>Benthall, S.</strong>" -%}
+
   <li>
   {%- if ref.year -%}
-  {{ ref.authors }} ({{ ref.year }}).
+  {{ authors }} ({{ ref.year }}).
   {%- else -%}
   {%- comment -%} No year to separate them, so avoid doubling an author initial's period. {%- endcomment -%}
-  {%- assign authors = ref.authors | strip -%}
-  {{ authors }}{% unless authors | slice: -1 == "." %}.{% endunless %}
-  {%- endif %} {{ ref.title }}. {{ ref.venue }}.
+  {{ authors }}{% unless authors_end == "." %}.{% endunless %}
+  {%- endif %} {{ ref.title }}. <em>{{ ref.venue }}</em>.
     {%- for link in ref.links %}
     (<a href="{{ link.url }}">{{ link.label }}</a>)
     {%- endfor %}
