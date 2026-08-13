@@ -6,7 +6,7 @@ publications:
   - authors: Benthall, S. and Sivan-Sevilla, I.
     year: 2026
     title: "Regulatory Contextual Integrity: Adaptively Regulating Privacy as Contextual Integrity"
-    venue: IEEE Security &amp; Privacy.
+    venue: IEEE Security &amp; Privacy
     links:
        - url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11475055
          label: ieee
@@ -20,7 +20,7 @@ publications:
   - authors: Xu, Z, J Liechty, <strong>S Benthall</strong>, N Skar-Gislinge, and C McComb.
     title: GARCH-informed neural networks for volatility prediction in financial markets
     year: 2024
-    venue: Proceedings of the 5th ACM International Conference on AI in Finance.
+    venue: Proceedings of the 5th ACM International Conference on AI in Finance
     links:
       - url: https://dl.acm.org/doi/pdf/10.1145/3677052.3698600
         label: acm
@@ -99,7 +99,7 @@ publications:
   - authors: Benthall, Sebastian, and Haynes, B.D.
     year: 2019
     title: Racial categories in machine learning
-    venue: Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019.
+    venue: Proceedings of the Conference on Fairness, Accountability, and Transparency. ACM, 2019
     links:
       - url: https://dl.acm.org/citation.cfm?id=3287575
         label: link
@@ -108,7 +108,7 @@ publications:
   - authors: Benthall, S., G&#252;rses, S., and Nissenbaum, H.
     year: 2017
     title: Contextual Integrity through the Lens of Computer Science
-    venue: Foundations and Trends in Privacy and Security, vol. 2, no. 1, pp. 1–69, 2017.
+    venue: Foundations and Trends in Privacy and Security, vol. 2, no. 1, pp. 1–69, 2017
     links:
       - url: http://www.nowpublishers.com/article/Details/SEC-016
         label: link
@@ -117,14 +117,14 @@ publications:
   - authors: Benthall, S.
     year: 2017
     title: Assessing Software Supply Chain Risk Using Public Data
-    venue: IEEE STC 2017 Software Technology Conference.
+    venue: IEEE STC 2017 Software Technology Conference
     links:
       - url: http://ieeexplore.ieee.org/document/8234461/
         label: link
   - authors: Benthall, S.
     year: 2016
     title: Philosophy of Computational Social Science
-    venue: "Cosmos and History: The Journal of Natural and Social Philosophy, Vol 12, No 2."
+    venue: "Cosmos and History: The Journal of Natural and Social Philosophy, Vol 12, No 2"
     links:
       - url: http://cosmosandhistory.org/index.php/journal/article/view/570
         label: link
@@ -140,7 +140,7 @@ publications:
   - authors: Benthall, S.
     year: 2016
     title: The Human is the Data Science
-    venue: Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016.
+    venue: Workshop on Developing a Research Agenda for Human-Centered Data Science. CSCW 2016
     links:
       - url: https://cscw2016hcds.files.wordpress.com/2015/10/benthall_hcds2016.pdf
         label: link
@@ -154,7 +154,7 @@ publications:
   - authors: Benthall, S.
     year: 2014
     title: Designing Networked Publics for Communicative Action
-    venue: Jenny Davis &amp; Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1.
+    venue: Jenny Davis &amp; Nathan Jurgenson (eds.) Theorizing the Web 2014 [Special Issue]. Interface 1.1
     links:
       - url: https://commons.pacificu.edu/work/63bcdb50-8c4e-4823-b34b-178602ea9ee0?id=63bcdb50-8c4e-4823-b34b-178602ea9ee0
         label: link
@@ -162,3 +162,74 @@ publications:
         label: pdf
 
 #  - Benthall, S. (2007) "Kudos for the Mindless Expert." Review of Expert Political Judgment, by Philip Tetlock. Critical Review, Volume 19, Issue 1, January 2007, pages 65-79. (<a href="http://www.tandfonline.com/doi/abs/10.1080/08913810701499643">link</a>)
+
+popular:
+  - authors: Benthall, S. and Goldenfein, J.
+    title: Essential Infrastructures
+    venue: <i>Phenomenal World</i>
+    links:
+      - url: https://phenomenalworld.org/analysis/essential-infrastructures
+        label: link
+  - authors: Benthall, S. and Haynes, B.
+    title: Understanding Race with AI
+    venue: <i>Public Books</i>
+    links:
+      - url: https://www.publicbooks.org/understanding-race-with-ai/
+        label: link
+  - authors: Benthall, S.
+    year: 2009
+    title: An open source web GIS solution-the OpenGeo stack
+    venue: <em>GEO informatics, 12</em>, 40-43
+
+#  - authors: Benthall, S.
+#    year: 2013
+#    title: Why Weird Twitter
+#    venue: <em>Ethnography Matters</em>
+#    links:
+#      - url: http://ethnographymatters.net/blog/2013/06/30/why-weird-twitter-part-1/
+#        label: link
+#    A brief and unlikely foray into social media ethnography...
+
+preprints:
+  - authors: Benthall, S., &amp; Lujan, A.
+    year: 2026
+    title: The Design and Composition of Structural Causal Decision Processes
+    venue: arXiv preprint arXiv:2605.02681
+    links:
+      - url: https://arxiv.org/abs/2605.02681
+        label: link
+  - authors: Benthall, S., &amp; Clark, A.
+    year: 2025
+    title: Validity Is What You Need
+    venue: arXiv preprint arXiv:2510.27628
+    links:
+      - url: https://arxiv.org/abs/2510.27628
+        label: link
+  - authors: Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., &amp; Mardziel, P.
+    year: 2018
+    title: "Origin Privacy: Protecting Privacy in the Big-Data Era"
+    venue: Technical Report. New York University
+    links:
+      - url: http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf
+        label: link
+  - authors: Benthall, S.
+    year: 2017
+    title: "Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument"
+    venue: Preprint, arXiv:1702.08495
+    links:
+      - url: https://arxiv.org/abs/1702.08495
+        label: link
+  - authors: Benthall, S. and Chuang, J.
+    year: 2013
+    title: Computational Asymmetry in Strategic Bayesian Networks
+    venue: Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT]
+    links:
+      - url: http://arxiv.org/abs/1206.2878
+        label: arXiv
+  - authors: Fanti, G., David, Y. B., Benthall, S., Brewer, E., and Shenker, S.
+    year: 2013
+    title: "Rangzen: Circumventing Government-Imposed Communication Blackouts"
+    venue: Technical Report UCB/EECS-2013-128, EECS Department, University of California, Berkeley, Jul 2013
+    links:
+      - url: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html
+        label: link

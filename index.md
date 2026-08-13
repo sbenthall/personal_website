@@ -20,44 +20,15 @@ layout: home
 
 <h3>Research Articles</h3>
 
-<ul>
-  {% for ref in site.data.references.publications %}
-  <li>
-  {{ref.authors}} ({{ref.year}}). {{ref.title}}. {{ref.venue}}.
-    {% for link in ref.links %}
-    (<a href="{{link.url}}">{{link.label}}</a>)
-    {% endfor %}
-  </li>
-  {% endfor %}
-</ul>
+{% include reference-list.html refs=site.data.references.publications %}
 
 <h3>Popular Writing and Trade Literature</h3>
 
-<ul>
-  <li>Benthall, S. and Goldenfein, J. "Essential Infrastructures". <i>Phenomenal World</i>. (<a href="https://phenomenalworld.org/analysis/essential-infrastructures">link</a>)</li>
-  <li>Benthall, S. and Haynes, B. "Understanding Race with AI". <i>Public Books</i>. (<a href="https://www.publicbooks.org/understanding-race-with-ai/">link</a>)</li>
-  <!--
-  <li>
-    Benthall, S. (2013) "Why Weird Twitter", <em>Ethnography Matters</em>. (<a href="http://ethnographymatters.net/blog/2013/06/30/why-weird-twitter-part-1/">link</a>) <em>A brief and unlikely foray into social media ethnography...</em>
-  </li>
-  -->
-  <li>Benthall, S. (2009). An open source web GIS solution-the OpenGeo stack. <em>GEO informatics, 12</em>, 40-43.
-  </li>
-</ul>
+{% include reference-list.html refs=site.data.references.popular %}
 
 <h3>Technical Reports and Pre-prints</h3>
-<ul>
-  <li>Benthall, S., &amp; Lujan, A. (2026). The Design and Composition of Structural Causal Decision Processes. arXiv preprint arXiv:2605.02681. (<a href="https://arxiv.org/abs/2605.02681">link</a>)</li>
-  <li>Benthall, S., &amp; Clark, A. (2025). Validity Is What You Need. arXiv preprint arXiv:2510.27628. (<a href="https://arxiv.org/abs/2510.27628">link</a>)</li>
-  <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., &amp; Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
-  <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
-  <li>
-    Benthall, S. and Chuang, J. (2013) Computational Asymmetry in Strategic Bayesian Networks. Poster at W-PIN+NetEcon 2013, Pittsburgh. arXiv:1206.2878 [cs.GT] (<a href="http://arxiv.org/abs/1206.2878">arXiv</a>)
-  </li>
-  <li>
-   Fanti, G., David, Y. B., Benthall, S., Brewer, E., and Shenker, S.. (2013) Rangzen: Circumventing Government-Imposed Communication Blackouts. Technical Report UCB/EECS-2013-128, EECS Department, University of California, Berkeley, Jul 2013. (<a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html">link</a>)
-   </li>
-</ul>
+
+{% include reference-list.html refs=site.data.references.preprints %}
     
 <h2 id="software"><a href="#software">&sect;</a>Software</h2>
 <ul>
