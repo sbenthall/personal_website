@@ -62,19 +62,19 @@ layout: home
 <h2 id="software"><a href="#software">&sect;</a>Software</h2>
 <ul>
   <li><a href="http://github.com/scikit-agent/scikit-agent">scikit-agent</a>, a system for causal economic world modeling. Like scikit-learn, but for agent-based modeling and computational economics.</li>
-  <li><a href="http://github.com/sbenthall/bigbang">BigBang</a>, for the analysis of standards-seting, infrastructure governance, and open collaborative communities. This analytics engine serves as the back-end for Article 19's <a href="https://www.article19.org/resources/internet-standards-almanac-whos-really-shaping-the-internet/"><em>Guess Who!</em></a> tool, part of their Internet Standards Almanac.</li>
+  <li><a href="http://github.com/sbenthall/bigbang">BigBang</a>, for the analysis of standards-setting, infrastructure governance, and open collaborative communities. This analytics engine serves as the back-end for Article 19's <a href="https://www.article19.org/resources/internet-standards-almanac-whos-really-shaping-the-internet/"><em>Guess Who!</em></a> tool, part of their Internet Standards Almanac.</li>
   <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, for structural economic modeling with heterogeneous agents.</li>
   <li><a href="http://geonode.org/">GeoNode</a>, an open source geospatial data management system. It was part of an <a href="https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf">innovative strategy</a> to leverage open source development practices for international development. There is still a great team working on it and deploying it as a product.</li>
 </ul>
 
-<h2 id="dissertation">Dissertation</h2>
+<h2 id="dissertation"><a href="#dissertation">&sect;</a>Dissertation</h2>
 
 <p>Sebastian Benthall. <em>Context, Causality, and Information Flow: Implications for Privacy Engineering, Security, and Data Economics</em>. Ph.D. dissertation. Advisors: John Chuang and Deirdre Mulligan. University of California, Berkeley. 2018. (<a href="https://escholarship.org/uc/item/5sg7q32q">eScholarship</a>) (<a href="https://www.slideshare.net/SebastianBenthall/context-causality-and-information-flow-implications-for-privacy-engineering-security-and-data-economics">slideshare</a>)</p>
 
 <h2 id="awards"><a href="#awards">&sect;</a>Prior Grants, Awards, and Support</h2>
 <ul>
-  <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532">NSF CCF-2131532</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533">CCF-2131532</a>, "Collaborative Research: DASS: Agent Based Modeling at the Boundary of Law and Software". Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. A collabroration between ICSI, the NYU School of Law, and the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>.</li>
+  <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532">NSF CCF-2131532</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533">CCF-2131533</a>, "Collaborative Research: DASS: Agent Based Modeling at the Boundary of Law and Software". Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. A collaboration between ICSI, the NYU School of Law, and the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>.</li>
   <li><a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2105301">NSF SBE-2105301</a>, "Heterogeneous agent modeling of the personal data economy". A postdoctoral research fellowship focusing on computational economics methods for information law and privacy research.</li>
 </ul>
 
@@ -92,7 +92,7 @@ layout: home
 
 <h2>On the Web</h2>
 
-<p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="http://twitter.com/sbenthall">twitter</a> <a href="http://lnkd.in/dQXWUp3">linkedin</a>  <a href="http://www.slideshare.net/SebastianBenthall">slideshare</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
+<p><a href="https://github.com/sbenthall">github</a> <a href="https://scholar.google.com/citations?user=iOgZOWYAAAAJ&hl=en">google scholar</a> <a href="http://digifesto.com">blog</a> <a href="https://www.linkedin.com/in/sebastianbenthall/">linkedin</a> <!-- <a href="https://medium.com/@sbenthall">medium</a> --></p>
 
 <h2>Contact</h2>
 <p>e-mail: spb413 at nyu dot edu</p>
