@@ -2,8 +2,15 @@
   /* Tells the browser to render form controls, scrollbars, etc. to match. */
   color-scheme: light dark;
 
+  /* ~17px against a default browser setting, but stated as a percentage so it
+     still scales for readers who have changed that setting. Every rem below is
+     relative to this, including the body max-width. */
+  font-size: 106.25%;
+
   --bg: #ffffff;
   --fg: #1a1a1a;
+  --muted: #5c6370;
+  --border: #e0e3e8;
   --link: #0b5fa5;
   --link-visited: #6b3fa0;
 }
@@ -12,17 +19,77 @@
   :root {
     --bg: #16181c;
     --fg: #e6e6e6;
+    --muted: #9aa1ad;
+    --border: #2b3038;
     --link: #7db8f0;
     --link-visited: #c4a6e8;
   }
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
+     /* The measure. Without this the `auto` margins never engage and text runs
+        the full width of the viewport. Padding is inside the cap, per
+        box-sizing above. */
+     max-width: 46rem;
      margin-left: auto;
      margin-right: auto;
      padding: 2em;
      background-color: var(--bg);
      color: var(--fg);
+
+     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+                  Arial, sans-serif;
+     font-size: 1rem;
+     line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+   line-height: 1.25;
+   /* Headings set tighter than body copy; the browser default leaves them
+      loose enough to read as body text at a large size. */
+   text-wrap: balance;
+}
+
+h1 {
+   font-size: 2rem;
+   letter-spacing: -0.015em;
+   margin-top: 0;
+   margin-bottom: 0.6em;
+}
+
+/* Section breaks. The hairline plus the space above it is what gives the page a
+   scanning path; the sections are otherwise uniform in weight. */
+h2 {
+   font-size: 1.35rem;
+   letter-spacing: -0.01em;
+   margin-top: 2.75em;
+   padding-top: 0.85em;
+   border-top: 1px solid var(--border);
+}
+
+/* The "Research Articles" tier. Demoted to a label so it stops competing with
+   the h2 above it. */
+h3 {
+   font-size: 0.78rem;
+   font-weight: 600;
+   text-transform: uppercase;
+   letter-spacing: 0.09em;
+   color: var(--muted);
+   margin-top: 2.25em;
+   margin-bottom: 0.75em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.1em;
 }
 
 a {
@@ -31,6 +98,10 @@ a {
 
 a:visited {
    color: var(--link-visited);
+}
+
+ul {
+  padding-left: 1.35em;
 }
 
 li {

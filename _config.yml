@@ -38,13 +38,20 @@ plugins:
   - jekyll-seo-tag
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# NOTE: setting this key REPLACES Jekyll's built-in default list rather than
+# adding to it, so the defaults below must be repeated or Gemfile, Gemfile.lock
+# and friends get copied into _site.
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # Internal working notes, not for publication. design.md has no front matter,
+  # which means Jekyll would otherwise copy it verbatim to /design.md.
+  - design.md
