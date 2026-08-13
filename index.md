@@ -12,12 +12,9 @@ layout: home
 
 <h2 id="projects"><a href="#projects">&sect;</a> Current Projects</h2>
 
-* Building a new open source computational economics tool that combines causal game theory and deep learning econometrics.
+* Building <a href="https://scikit-agent.org">scikit-agent</a>, a causal economic world modeling system and scientific library. This combines causal game theory and deep learning econometrics. Applying this to AI system and regulatory design.
 * Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
 * Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&HistoricalAwards=false">NSF #2437745</a>.
-* Developing Contextual Integrity through a technical standards working group and hybridization with Differential Privacy.
-* Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. I am (co-)PI, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532&HistoricalAwards=false">NSF #2131532</a>, with the NYU School of Law, the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>, and the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533&HistoricalAwards=false">International Computer Science Institute</a>.
-<!--* Developing a new configuration language for structural models in economics with the <a href="https://github.com/econ-ark/HARK">HARK</a> project.-->
 
 <h2 id="publications"><a href="#publications">&sect;</a> Publications</h2>
 
@@ -50,6 +47,8 @@ layout: home
 
 <h3>Technical Reports and Pre-prints</h3>
 <ul>
+  <li>Benthall, S., & Lujan, A. (2026). The Design and Composition of Structural Causal Decision Processes. arXiv preprint arXiv:2605.02681. (<a href="https://arxiv.org/abs/2605.02681">link</a>)</li>
+  <li>Benthall, S., & Clark, A. (2025). Validity Is What You Need. arXiv preprint arXiv:2510.27628. (<a href="https://arxiv.org/abs/2510.27628">link</a>)</li>
   <li>Nissenbaum, H., Benthall, S., Datta, A., Tschantz, M. C., & Mardziel, P. (2018). Origin Privacy: Protecting Privacy in the Big-Data Era. Technical Report. New York University. (<a href="http://www.dtic.mil/dtic/tr/fulltext/u2/1057995.pdf">link</a>)</li>
   <li>Benthall, S. (2017) Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument. Preprint, arXiv:1702.08495 (<a href="https://arxiv.org/abs/1702.08495">link</a>)</li>
   <li>
@@ -62,6 +61,7 @@ layout: home
     
 <h2 id="software"><a href="#software">&sect;</a>Software</h2>
 <ul>
+  <li><a href="http://github.com/scikit-agent/scikit-agent">scikit-agent</a>, a system for causal economic world modeling. Like scikit-learn, but for agent-based modeling and computational economics.</li>
   <li><a href="http://github.com/sbenthall/bigbang">BigBang</a>, for the analysis of standards-seting, infrastructure governance, and open collaborative communities. This analytics engine serves as the back-end for Article 19's <a href="https://www.article19.org/resources/internet-standards-almanac-whos-really-shaping-the-internet/"><em>Guess Who!</em></a> tool, part of their Internet Standards Almanac.</li>
   <li><a href="https://github.com/sbenthall/SHARKFin">SHARKFin</a>, for modeling the interaction between the macroeconomy and the financial system.</li>
   <li><a href="https://github.com/econ-ark">Econ-Ark</a>, for structural economic modeling with heterogeneous agents.</li>
@@ -71,6 +71,12 @@ layout: home
 <h2 id="dissertation">Dissertation</h2>
 
 <p>Sebastian Benthall. <em>Context, Causality, and Information Flow: Implications for Privacy Engineering, Security, and Data Economics</em>. Ph.D. dissertation. Advisors: John Chuang and Deirdre Mulligan. University of California, Berkeley. 2018. (<a href="https://escholarship.org/uc/item/5sg7q32q">eScholarship</a>) (<a href="https://www.slideshare.net/SebastianBenthall/context-causality-and-information-flow-implications-for-privacy-engineering-security-and-data-economics">slideshare</a>)</p>
+
+<h2 id="awards"><a href="#awards">&sect;</a>Prior Grants, Awards, and Support</h2>
+<ul>
+  <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131532">NSF CCF-2131532</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131533">CCF-2131532</a>, "Collaborative Research: DASS: Agent Based Modeling at the Boundary of Law and Software". Creating methods for using Agent-Based Modeling to hold software accountable to legal regulation. A collabroration between ICSI, the NYU School of Law, and the <a href="https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab">Agent-Based Modeling Lab at NYU School of Global Public Health</a>.</li>
+  <li><a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2105301">NSF SBE-2105301</a>, "Heterogeneous agent modeling of the personal data economy". A postdoctoral research fellowship focusing on computational economics methods for information law and privacy research.</li>
+</ul>
 
 <!--
 <h2>Background</h2>
