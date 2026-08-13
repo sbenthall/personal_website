@@ -18,9 +18,11 @@ layout: home
 
 <h2 id="projects"><a href="#projects">&sect;</a>Current Projects</h2>
 
-* Building <a href="https://scikit-agent.org">scikit-agent</a>, a causal economic world modeling system and scientific library. This combines causal game theory and deep learning econometrics. Applying this to AI system and regulatory design.
-* Designing fiduciary artificial intelligence. Fiduciaries are trusted roles in society with specific legal duties. How can these duties inform the design of Trustworthy AI? What organizations can help standardize what fiduciary duties mean for AI? Supported by the Future of Life Foundation.
-* Envisioning new directions for computer and information science research for positive change to the <em>sociotechnical ecosystem</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&amp;HistoricalAwards=false">NSF #2437745</a>.
+<ul>
+  <li>Building <a href="https://scikit-agent.org">scikit-agent</a>, a library for causal economic world modeling. It combines causal game theory with deep learning econometrics, and applies to AI and regulatory design.</li>
+  <li>Designing fiduciary AI: turning the legal duties of trusted roles into design requirements for AI systems, and finding organizations that can standardize them. Supported by the Future of Life Foundation.</li>
+  <li>Organizing visioning activities to develop new computational foundations for reasoning about <em>sociotechnical ecosystems</em>. Supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2437745&amp;HistoricalAwards=false">NSF #2437745</a>.</li>
+</ul>
 
 <h2 id="publications"><a href="#publications">&sect;</a>Publications</h2>
 
